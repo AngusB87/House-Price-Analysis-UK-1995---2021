@@ -17,8 +17,13 @@ Python, Google Colab, Tableau
 Skills demonstrated
 
 Finding and collecting raw data online
+
 Data cleaning - modifying, renaming, addressing missing values and duplicates
+
 Data exploration
+
 Data transformation and merging
+
 Visualizations - Tableau and python
+
 How to form and test hypotheses
